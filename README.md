@@ -1,6 +1,6 @@
 # mobbin-peep
 
-[下载 mobbin-peep v1.0.4 安装包](https://github.com/quachhoqu-stack/mobbin-peep/releases/download/v1.0.4/mobbin-peep-v1.0.4.zip)
+[下载 mobbin-peep v1.0.4 扩展zip](https://github.com/quachhoqu-stack/mobbin-peep/releases/download/v1.0.4/mobbin-peep-v1.0.4.zip)
 
 
 用于桌面 Chrome / Edge 的 Mobbin 浏览扩展，提供免会员查看大图预览、下载。
